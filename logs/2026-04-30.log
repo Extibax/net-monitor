@@ -106,3 +106,15 @@ PING_FAILED
 [mtr]
 Start: 2026-04-30T17:56:52+0000
 HOST: runnervmeorf1          Loss%   Snt   Last   Avg  Best  Wrst StDev
+---- 2026-04-30T19:15:07Z ----
+[runner] 172.214.44.225
+[ping]
+PING 190.218.237.205 (190.218.237.205) 56(84) bytes of data.
+
+--- 190.218.237.205 ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19490ms
+
+PING_FAILED
+[mtr]
+Start: 2026-04-30T19:15:29+0000
+HOST: runnervmeorf1          Loss%   Snt   Last   Avg  Best  Wrst StDev
